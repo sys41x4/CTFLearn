@@ -1,0 +1,3 @@
+https://ctflearn.com/challenge/936
+http://www.xor.pw/#
+http://string-functions.com/hex-string.aspx
