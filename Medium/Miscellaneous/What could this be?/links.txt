@@ -1,0 +1,2 @@
+https://ctflearn.com/challenge/268
+https://enkhee-osiris.github.io/Decoder-JSFuck/
