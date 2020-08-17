@@ -1,3 +1,1 @@
 https://ctflearn.com/challenge/972
-https://www.wolframalpha.com/examples/mathematics/algebra/equation-solving/
-https://www.wolframalpha.com/input/?i=3x%2B5y%3D31%2C+7x%2B9y%3D59
