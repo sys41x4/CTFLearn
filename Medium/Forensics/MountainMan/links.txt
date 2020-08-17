@@ -1,3 +1,1 @@
 https://ctflearn.com/challenge/888
-http://vip.sugovica.hu/Sardi/kepnezo/JPEG%20File%20Layout%20and%20Format.htm
-https://gchq.github.io/CyberChef/#recipe=From_Hex('Auto')Magic(22,true,false,'%5E%5C%5Cw*%7B%5C%5Cw*%7D')
