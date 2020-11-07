@@ -1,0 +1,2 @@
+https://ctflearn.com/challenge/887
+http://rumkin.com/tools/cipher/playfair.php
